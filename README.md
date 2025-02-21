@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MartinMinchev7
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Spring Web in Software University
+- 🌱 I’m currently learning Containers and Cloud in Software University
 - 📫 How to reach me find me in instagram at @marto1005
 - ⚡ Fun fact: I am fitness adicted
 <!---
